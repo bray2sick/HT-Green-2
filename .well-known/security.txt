@@ -1,0 +1,4 @@
+Contact: mailto:htgreen@gmail.com
+Expires: 2025-02-24T12:59:00.000Z
+Preferred-Languages: en
+Canonical: https://www.htgreen.com.au/.well-known/security.txt
